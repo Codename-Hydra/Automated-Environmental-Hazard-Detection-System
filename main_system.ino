@@ -2,7 +2,7 @@
 // Pin Definitions
 #define LDRpin A2        // LDR Sensor Pin
 #define MQ2pin A4        // MQ-2 Gas Sensor Pin
-#define TEMPpin A0       // Temperature Sensor (KY-028) Pin
+#define TEMPpin A0       // Temperature Sensor (Thermistor) Pin
 const int TRIG_PIN = 3;  // Ultrasonic Sensor TRIG pin
 const int ECHO_PIN = 13; // Ultrasonic Sensor ECHO pin
 const int SERVO_PIN = 11; // Servo Motor pin
