@@ -9,7 +9,7 @@ An advanced multi-sensor security system designed for comprehensive environmenta
 - **Arduino Uno R3**
 
 ### Sensors
-- **Temperature Sensor**: KY-028 Thermistor
+- **Temperature Sensor**: Thermistor
 - **Gas Detector**: MQ-2 Gas Sensor
 - **Distance Monitor**: HC-SR04 Ultrasonic Sensor
 - **Light Sensor**: Light Dependent Resistor (LDR)
